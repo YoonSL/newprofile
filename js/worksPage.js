@@ -40,7 +40,7 @@ worksImg = () => {
                     $("<img src = 'assets/cssprac3.png'>"))
             ),
             $("<div>").addClass("box").append(
-                $("<a href = 'https://https://yoonsl.github.io/Homework03-1//'>").append(
+                $("<a href = 'https://https://yoonsl.github.io/Homework03-1/'>").append(
                     $("<img src = 'assets/cssprac4.png'>"))
             ),
             $("<div>").addClass("box").append(
