@@ -1,23 +1,29 @@
-body{
-    background-image: url("../assets/calwaen-liew-343557-unsplash.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:100vh;
-    width:auto;
+body {
+  background-image: url("../assets/calwaen-liew-343557-unsplash.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: auto;
 }
 
-.contain{
-    /* position: absolute;
-    width: 80%;
-    height: 70%;
-    top: 50%;
-    left: 50%;
-    margin-left: -50px;
-    margin-top: -25px;  */
-    width: 80%;
-    height: 70%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black;
+.contain {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  display: inline-block;
+  /* border: solid 3px black; */
 }
+
+.mainTitle {
+  position: fixed;
+  font-size: 300px;
+  font-size: 10vw;
+  text-align: center;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
