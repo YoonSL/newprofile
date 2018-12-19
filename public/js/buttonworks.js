@@ -11,4 +11,4 @@ $("#openNav").on("click",openNavBar);
 $(".closebtn").on("click",closeNavBar);
 $(".main-btn").on("click",maintitle);
 $(".about-btn").on("click",aboutPage);
-$(".works-btn").on("click",aboutPage);
+$(".works-btn").on("click",workPage);

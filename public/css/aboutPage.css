@@ -10,6 +10,10 @@
     font-size: 100px;
     font-size: 5vw;
 }
+
+.aboutTitle h1{
+    font-family: 'Charm', cursive;
+}
 .aboutTitle p{
     font-size: 2vw;
     font-weight: bold;
@@ -22,6 +26,7 @@
     margin-right:50px;
     margin-top: 20px;
     font-size: 2vw;
+    font-family: 'Noto Serif TC', serif;
 }
 
 .aboutSkillTitle{
@@ -40,4 +45,5 @@
     margin-left: 90px;
     margin-bottom: 5px;
     list-style-type: square;
+    font-family: 'Noto Serif TC', serif;
 }

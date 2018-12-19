@@ -1,4 +1,5 @@
 function maintitle() {
+    $('#mySidenav').css("width","0px");
     $(".contain").empty();
     $(".contain").append(
         $("<div>").addClass("mainTitle").append(

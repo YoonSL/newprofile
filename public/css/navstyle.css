@@ -20,22 +20,25 @@
     color: #818181;
     display: block;
     transition: 0.3s;
+    font-family: 'Charm', cursive;
+    margin-left:10%;
   }
   
   .sidenav ul:hover {
     color: #f1f1f1;
     cursor: pointer;
+    margin-left:20%;
   }
   
   .sidenav .closebtn {
     position: absolute;
-    top: 0;
-    right: 25px;
+    top: 10px;
+    right: 10px;
     font-size: 36px;
     margin-left: 50px;
   }
   #openNav{
-    position : absolute;
+    position : fixed;
     left: 30px;
     top:30px;
   }

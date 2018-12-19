@@ -1,4 +1,5 @@
 function aboutPage() {
+    $('#mySidenav').css("width","0px");
   $(".contain").empty();
   $(".contain").append(links());
   $(".contain").append(aboutTitle());

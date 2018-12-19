@@ -1,0 +1,17 @@
+.worksTitle{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.worksTitleText{
+    font-family: 'Charm', cursive;
+    font-size: 90px;
+}
+
+.box img{
+    float:left;
+    width:250px;
+    height:200px;
+    margin-top:5%;
+    margin-left:5%;
+}
